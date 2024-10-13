@@ -35,8 +35,10 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Autoconhecimento](https://img.shields.io/badge/-Autoconhecimento-orange) 
 ![Aprendizado Facilitado](https://img.shields.io/badge/-Aprendizado%20Facilitado-green)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact&theme=transparent)
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact&theme=transparent"/>
+
 
 ---
 
