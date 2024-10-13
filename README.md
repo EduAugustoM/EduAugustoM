@@ -1,10 +1,7 @@
-## Hi there 👋
-
+## Boas vindas ao meu repositório!
 <!--
 **EduAugustoM/EduAugustoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Olá! Sou **Eduardo Augusto**, engenheiro civil em transição para o mundo da ciência de dados. Apaixonado por tecnologia, busco sempre desafios empolgantes e oportunidades de aprendizado contínuo. Estou construindo uma carreira sólida em **Ciência de Dados**, com foco em manipulação, limpeza e análise de dados para fornecer insights valiosos que impulsionam decisões de negócios.
+
+Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo do **Programa de Pré-Incubação na UEG**, onde estou aprimorando minhas habilidades e explorando projetos inovadores na área de dados.
+
+### Habilidades:
+- **Linguagens:** Python, R, SQL
+- **Ferramentas:** Power BI, Excel, Google Data Studio
+- **Interesses:** Machine Learning, Inteligência Artificial, Mineração e Visualização de Dados, Big Data
+
+Vamos nos conectar e explorar juntos o incrível mundo dos dados! 🚀
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-mendes)
