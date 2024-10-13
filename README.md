@@ -1,4 +1,4 @@
-## Boas vindas ao meu repositório!
+### Boas vindas ao meu repositório!
 ---
 Olá! Meu nome é **Eduardo Augusto** e atualmente vivo em Santa Helena de Goiás. Sempre fui muito curioso em entender os detalhes de tudo o que faço. Um exemplo disso é que, quando trabalhava, costumava calcular o quanto recebia por hora e relacionava isso com minhas compras, planejando meus gastos de forma detalhada em tabelas para organizar meu mês. Isso sempre foi ligado ao meu interesse por dados.
 
