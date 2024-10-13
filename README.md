@@ -36,8 +36,8 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Aprendizado Facilitado](https://img.shields.io/badge/-Aprendizado%20Facilitado-green)
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=transparent"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact&theme=transparent"/>
 
 
 ---
