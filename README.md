@@ -10,7 +10,7 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 
 <div align="center">
   
-### Hard Skills:
+**Hard Skills:**
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat&logo=pandas&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoColor=white) 
@@ -25,7 +25,7 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-purple?style=flat&logo=machinelearning&logoColor=white) 
 ![Estatística](https://img.shields.io/badge/-Estatística-blue?style=flat&logo=mathworks&logoColor=white)
 
-### Soft Skills:
+**Soft Skills:**
 ![Sociabilidade](https://img.shields.io/badge/-Sociabilidade-blue) 
 ![Influência](https://img.shields.io/badge/-Influência-red) 
 ![Capacidade Analítica](https://img.shields.io/badge/-Capacidade%20Analítica-green) 
