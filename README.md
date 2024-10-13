@@ -18,6 +18,7 @@ Ao finalizar minha primeira graduação, meu trabalho de conclusão de curso foi
 Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo do **Programa de Pré-Incubação na UEG**, onde estou desenvolvendo novos projetos e explorando inovações em análise de dados.
 
 <div align="center">
+  
 ### Hard Skills:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat&logo=pandas&logoColor=black) 
@@ -54,4 +55,5 @@ Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo.
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-mendes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:eeduardoaugusto@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_augusto)
+
 </div>
