@@ -44,15 +44,14 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Autoconhecimento](https://img.shields.io/badge/-Autoconhecimento-orange) 
 ![Aprendizado Facilitado](https://img.shields.io/badge/-Aprendizado%20Facilitado-green)
 
-:![Eduardo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/EduAuhustoM/github-readme-stats#gh-dark-mode-only)
-![Eduardo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/EduAugustoM/github-readme-stats#gh-light-mode-only):
-:![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact):
+<center>![Eduardo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=default#gh-light-mode-only)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact)</center>
 ---
 
-:Vamos nos conectar e explorar juntos o incrível mundo dos dados! 🚀  :
-:Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo.:
+<center>Vamos nos conectar e explorar juntos o incrível mundo dos dados! 🚀  
+Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo.
 
-:[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-mendes):
-:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:eeduardoaugusto@gmail.com):
-:[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_augusto):
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-mendes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:eeduardoaugusto@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_augusto)</center>
 
