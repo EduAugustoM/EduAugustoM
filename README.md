@@ -17,6 +17,8 @@ Ao finalizar minha primeira graduação, meu trabalho de conclusão de curso foi
 
 Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo do **Programa de Pré-Incubação na UEG**, onde estou desenvolvendo novos projetos e explorando inovações em análise de dados.
 
+--
+
 <div align="center">
   
 ### Hard Skills:
@@ -47,6 +49,7 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduAugustoM&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduAugustoM&layout=compact&theme=transparent)
 
+--
 
 Vamos nos conectar e explorar juntos o incrível mundo dos dados! 🚀 <br>
 Sinta-se à vontade para explorar meus projetos ou entrar em contato comigo.
