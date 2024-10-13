@@ -1,5 +1,5 @@
 # Boas vindas ao meu repositório!
-
+---
 Olá! Meu nome é **Eduardo Augusto** e atualmente vivo em Santa Helena de Goiás. Sempre fui muito curioso em entender os detalhes de tudo o que faço. Um exemplo disso é que, quando trabalhava, costumava calcular o quanto recebia por hora e relacionava isso com minhas compras, planejando meus gastos de forma detalhada em tabelas para organizar meu mês. Isso sempre foi ligado ao meu interesse por dados.
 
 Ao finalizar minha primeira graduação, meu trabalho de conclusão de curso foi um projeto de análise de dados que fiz manualmente usando Excel. Como não sabia programar na época, o processo foi muito mais demorado do que seria se eu tivesse familiaridade com alguma linguagem de programação. Hoje, com o conhecimento adquirido em diversas ferramentas e linguagens, estou imerso em projetos na área de dados e buscando uma vaga que me permita continuar evoluindo e impulsionar minha carreira.
@@ -10,7 +10,7 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 
 <div align="center">
   
-**Hard Skills:**
+### Hard Skills:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-yellow?style=flat&logo=pandas&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=numpy&logoColor=white) 
@@ -25,7 +25,7 @@ Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-purple?style=flat&logo=machinelearning&logoColor=white) 
 ![Estatística](https://img.shields.io/badge/-Estatística-blue?style=flat&logo=mathworks&logoColor=white)
 
-**Soft Skills:**
+### Soft Skills:
 ![Sociabilidade](https://img.shields.io/badge/-Sociabilidade-blue) 
 ![Influência](https://img.shields.io/badge/-Influência-red) 
 ![Capacidade Analítica](https://img.shields.io/badge/-Capacidade%20Analítica-green) 
