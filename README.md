@@ -1,10 +1,10 @@
 ### Boas vindas ao meu repositório!
 ---
-Olá! Meu nome é **Eduardo Augusto** e atualmente vivo em Santa Helena de Goiás. Sempre fui muito curioso em entender os detalhes de tudo o que faço. Um exemplo disso é que, quando trabalhava, costumava calcular o quanto recebia por hora e relacionava isso com minhas compras, planejando meus gastos de forma detalhada em tabelas para organizar meu mês. Isso sempre foi ligado ao meu interesse por dados.
+Olá! Meu nome é **Eduardo Augusto** e atualmente vivo em Santa Helena de Goiás. Sempre fui muito curioso em entender os detalhes de tudo o que faço. Um exemplo disso é que, quando trabalhava, costumava calcular o quanto recebia por hora e relacionava isso com minhas compras, planejando meus gastos de forma detalhada em tabelas para organizar meu mês.
 
-Ao finalizar minha primeira graduação, meu trabalho de conclusão de curso foi um projeto de análise de dados que fiz manualmente usando Excel. Como não sabia programar na época, o processo foi muito mais demorado do que seria se eu tivesse familiaridade com alguma linguagem de programação. Hoje, com o conhecimento adquirido em diversas ferramentas e linguagens, estou imerso em projetos na área de dados e buscando uma vaga que me permita continuar evoluindo e impulsionar minha carreira.
+Ao finalizar minha primeira graduação, meu trabalho de conclusão de curso foi um projeto de análise de dados que fiz manualmente usando Excel. Como não sabia programar na época, o processo foi muito mais demorado do que seria se eu tivesse familiaridade com alguma linguagem de programação. Hoje, com o conhecimento adquirido em diversas ferramentas e linguagens, estou imerso em projetos diveros semrpe em busca de conhecimentos que me permita continuar evoluindo e impulsionar minha carreira.
 
-Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo do **Programa de Pré-Incubação na UEG**, onde estou desenvolvendo novos projetos e explorando inovações em análise de dados.
+Atualmente sou aluno de **Iniciação Científica na XP Educação** e participo do **Programa de Pré-Incubação na UEG**, onde estou desenvolvendo diversos projetos e explorando inovações em análise de dados, desenvolvimeto web, inteligencia artificial e aprendizado de máquina.
 
 ---
 
